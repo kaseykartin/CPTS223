@@ -1,0 +1,3 @@
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/NEWPA1/NEWPA1/build/CMakeFiles/NEWPA1.dir
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/NEWPA1/NEWPA1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/NEWPA1/NEWPA1/build/CMakeFiles/rebuild_cache.dir
