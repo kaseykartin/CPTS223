@@ -1,0 +1,3 @@
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/MA4/MA4/build/CMakeFiles/MA4-executable.dir
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/MA4/MA4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/daftr/OneDrive/Desktop/CPTS_223/MA4/MA4/build/CMakeFiles/rebuild_cache.dir
